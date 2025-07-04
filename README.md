@@ -44,6 +44,7 @@ http://localhost:5173
 ## ✍️ Fonctionnalités
 
 ✅ Ajouter une tâche avec un niveau d'énergie (💤 / ⚡ / 🔥)
+
 ✅ Filtrer les tâches par énergie mentale
 ❌ Supprimer une tâche  
 ⚠️ Message de validation si le champ est vide  
