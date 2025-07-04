@@ -43,12 +43,12 @@ http://localhost:5173
 
 ## ✍️ Fonctionnalités
 
-✅ Ajouter une tâche avec un niveau d'énergie (💤 / ⚡ / 🔥)
-✅ Filtrer les tâches par énergie mentale
+✅ Ajouter une tâche avec un niveau d'énergie (💤 / ⚡ / 🔥)  
+✅ Filtrer les tâches par énergie mentale  
 ❌ Supprimer une tâche  
 ⚠️ Message de validation si le champ est vide  
 🎨 UI stylée avec Tailwind CSS  
-🆔 Clés uniques avec nanoid  
+🆔 Clés uniques avec nanoid   
 
 ---
 
