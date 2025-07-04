@@ -1,8 +1,9 @@
 # 📋 To-do List
 
 Une application simple de gestion de tâches construite avec **React**, **Vite**, **Tailwind CSS** et **nanoid**.
+Elle permet d'ajouter, supprimer, filtrer des tâches… et de les associer à un **niveau d'énergie mentale** pour mieux s’organiser selon sa forme du moment.
 
-Ce projet a été réalisé dans le cadre d'une formation React sur Udemy. Il permet d'ajouter, afficher et supprimer des tâches dans une liste, tout en appliquant des styles modernes grâce à Tailwind CSS.
+Ce projet a été réalisé dans le cadre d'une formation React sur Udemy.
 
 ---
 
@@ -42,7 +43,8 @@ http://localhost:5173
 
 ## ✍️ Fonctionnalités
 
-✅ Ajouter une tâche via un formulaire  
+✅ Ajouter une tâche avec un niveau d'énergie (💤 / ⚡ / 🔥)
+✅ Filtrer les tâches par énergie mentale
 ❌ Supprimer une tâche  
 ⚠️ Message de validation si le champ est vide  
 🎨 UI stylée avec Tailwind CSS  
